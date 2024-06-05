@@ -1,0 +1,173 @@
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: "22";
+    src: url(../fonts/CormorantInfant-SemiBoldItalic.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-b";
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+
+
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-db";
+    src: url(../fonts/Golos-Text_DemiBold.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+
+
+
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Golos-r";
+    src: url(../fonts/Golos-Text_Regular.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: "Manrope-r";
+    src: url(../assets/fonts/Manrope-Regular.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Manrope-r";
+    src: url(../assets/fonts/Manrope-Regular.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
